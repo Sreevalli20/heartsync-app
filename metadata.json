@@ -1,0 +1,8 @@
+{
+  "name": "HeartSync",
+  "description": "Real-time connection for people who matter. An intentional, interactive workspace to recognize moments, find the right words, take action, and follow through.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
